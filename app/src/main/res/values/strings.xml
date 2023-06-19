@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">Room Note Keeper</string>
+    <string name="no_records_message">No records available!</string>
+    <string name="title_name">Title</string>
+    <string name="title_hint">Enter Title</string>
+    <string name="add_note">ADD NOTE</string>
+    <string name="inserted_records_header">All the inserted notes.</string>
+    <string name="enter_note_content_message">Enter note content</string>
+    <string name="content_name">Content</string>
+    <string name="edit_content_description">image</string>
+    <string name="delete_content_description">image</string>
+    <string name="update_note">Update Note</string>
+    <string name="enter_title">Enter Title</string>
+    <string name="enter_content">Enter Content</string>
+    <string name="update">UPDATE</string>
+    <string name="cancel">CANCEL</string>
 </resources>
